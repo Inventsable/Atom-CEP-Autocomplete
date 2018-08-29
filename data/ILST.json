@@ -1,0 +1,57 @@
+[
+	{
+		"text": "AlternateGlyphsForm",
+		"description": "DEFAULTFORM | TRADITIONAL | EXPERT | ...",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#alternateglyphsform"
+	},
+	{
+		"text": "AntiAliasingMethod",
+		"description": "None | ARTOPTIMIZED | TYPEOPTIMIZED",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#antialiasingmethod"
+	},
+	{
+		"text": "ArtClippingOption",
+		"description": "OUTPUTARTBOUNDS | OUTPUTARTBOARDBOUNDS | OUTPUTCROPRECTBOUNDS",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#artclippingoption"
+	},
+	{
+		"text": "AutoCADColors",
+		"description": "Max8Colors | Max16Colors | Max256Colors | TrueColors",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#autocadcolors"
+	},
+	{
+		"text": "AutoCADCompatibility",
+		"description": "13 | 14 | 15 | 18 | 21 | 24",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#autocadcompatibility"
+	},
+	{
+		"text": "AutoCADExportFileFormat",
+		"description": "DXF | DWG",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#autocadexportfileformat"
+	},
+	{
+		"text": "AutoCADExportOption",
+		"description": "PreserveAppearance | MaximizeEditability",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#autocadexportoption"
+	},
+	{
+		"text": "AutoCADGlobalScaleOption",
+		"description": "OriginalSize | ScaleByValue | FitArtboard.",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#autocadglobalscaleoption"
+	},
+	{
+		"text": "AutoCADRasterFormat",
+		"description": "PNG | JPEG",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#autocadrasterformat"
+	},
+	{
+		"text": "AutoCADUnit",
+		"description": "Points | Picas | Inches | Millimeters | Centimeters | Pixels",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/scripting-constants/#autocadunit"
+	},
+	{
+		"text": "OpenOptionsAutoDXF",
+		"description": "Parent | Typename | Unit | ... ",
+		"descriptionMoreURL": "http://ai.aenhancers.com/jsobjref/OpenOptionsAutoCAD/"
+	}
+]
