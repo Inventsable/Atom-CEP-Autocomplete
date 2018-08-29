@@ -1,6 +1,10 @@
 # Adobe Autocomplete for Atom
 
-Custom fork of [atom-autocomplete-boilerplate](https://github.com/lonekorean/atom-autocomplete-boilerplate) for Illustrator's scripting DOM. See the [codersblock tutorial here](http://codersblock.com/blog/creating-an-autocomplete-plug-in-for-atom/) and [autocomplete-plus](https://github.com/atom/autocomplete-plus) provider API for full documentation.
+## [CarlosCanto wrote](https://forums.adobe.com/message/10585579#10585579)
+
+> My biggest wish was that the ESTK autocomplete worked, it is an invaluable tool for both beginners and experienced users.
+
+This is a custom fork of [atom-autocomplete-boilerplate](https://github.com/lonekorean/atom-autocomplete-boilerplate) for Illustrator's scripting DOM. See the [codersblock tutorial here](http://codersblock.com/blog/creating-an-autocomplete-plug-in-for-atom/) and [autocomplete-plus](https://github.com/atom/autocomplete-plus) provider API for full documentation on Atom's autocomplete feature.
 
 ## Installation
 
@@ -37,7 +41,7 @@ I've kept the other example files as a reference but have them commented within 
 * `./lib/ILST-provider.js` - The [Provider API functions](https://github.com/atom/autocomplete-plus/wiki/Provider-API) for attributes and behavior
 * `./lib/main.js` - Adding as many providers as needed/wanted here. This can include core Javascript `$` and other Adobe apps as well.
 
-## ILST.json
+## [./data/ILST.json](https://github.com/Inventsable/CEP-Atom-Autocomplete/blob/master/data/ILST.json)
 
 A simple, large collection like this:
 
@@ -54,6 +58,6 @@ A simple, large collection like this:
 },
 ```
 
-Any modifications can be made inside Atom in real-time, then `View > Developer > Refresh Window` (Control + Shift + F5) to see update:
+Any modifications can be saved inside Atom, then `View > Developer > Refresh Window` (Control + Shift + F5) to see updates:
 
 ![](https://thumbs.gfycat.com/GaseousUnawareCrossbill-size_restricted.gif)
